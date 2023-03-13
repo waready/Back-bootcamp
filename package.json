@@ -26,7 +26,8 @@
     "@adonisjs/lucid": "^6.1.3",
     "mysql": "^2.18.1",
     "pg": "^8.10.0",
-    "url-parse": "^1.5.10"
+    "url-parse": "^1.5.10",
+    "adonis-swagger": "^1.2.9"
   },
   "devDependencies": {},
   "autoload": {
